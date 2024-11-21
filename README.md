@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Naboni
+#### CSE Undergrad | Building Projects and Learning New Technologies
+ My name is Sabekunnahar Naboni, a third-year Computer Science and Engineering (CSE) student.
 
-<!--
-**nabonisabekunnahar/nabonisabekunnahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C/C++/JAVA / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on multiple projects related to Android app development 
+- 🌱 I’m currently learning Basic Machine learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nabonisabekunnahar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@sabekunnaharnaboni/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabonisabekunnahar)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nabonisabekunnahar)  
+
