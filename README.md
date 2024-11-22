@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Naboni
+### Hello, bright soul! 🌟, I'm Naboni
 #### CSE Undergrad | Building Projects and Learning New Technologies
  My name is Sabekunnahar Naboni, a third-year Computer Science and Engineering (CSE) student.
 
